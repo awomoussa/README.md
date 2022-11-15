@@ -4,4 +4,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Awo for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Awo](https://github.com/awomoussa) for the Lighthouse Labs Web Development Bootcamp.
